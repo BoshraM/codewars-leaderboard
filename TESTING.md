@@ -55,7 +55,7 @@
   Tested manually:
   When searching for a list of users, if one or more usernames are invalid, the application displays an error message. The error message identifies the first invalid username in the list and informs the user that it does not exist.
 
-## If fetching from the Codewars API errors (e.g. because you’re offline, or made a bad request), the user must be shown a useful error message in the UI.
+## 14. If fetching from the Codewars API errors (e.g. because you’re offline, or made a bad request), the user must be shown a useful error message in the UI.
   Tested manually
   Open the website.
   Open DevTools → Network.
